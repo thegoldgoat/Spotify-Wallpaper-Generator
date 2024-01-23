@@ -1,4 +1,4 @@
-![Example Wallpaper Generated](examples/collage.jpg)
+![Example Wallpaper Generated](examples/example1.jpg)
 
 # Spotify Wallpaper Generator
 
